@@ -7,3 +7,5 @@ going to try committing after gpg-ing? does it work?
 it did not work. starting over with a new .authinfo that doesn't include personal access key
 
 this time removed ^forge from .authinfo
+
+ok, this time I remembered to put the public key in github
